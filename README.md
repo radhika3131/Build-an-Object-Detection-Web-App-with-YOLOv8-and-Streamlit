@@ -35,7 +35,9 @@ streamlit run Tutorial.py
 ```
 3. Open the provided link in your browser to access the web app.
 
-![](https://github.com/radhika3131/Build-an-Object-Detection-Web-App-with-YOLOv8-and-Streamlit/assets/102825662/21ea6cf2-0789-4896-b3f1-dbec3fadb720)
+![](https://github.com/radhika3131/Build-an-Object-Detection-Web-App-with-YOLOv8-and-Streamlit/assets/102825662/f4e49515-6bd0-4812-861c-f66eb61211e8)
+
+
 
 
 ## Configuration
