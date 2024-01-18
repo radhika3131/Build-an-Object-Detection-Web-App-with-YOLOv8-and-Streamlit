@@ -28,7 +28,7 @@ https://github.com/radhika3131/Build-an-Object-Detection-Web-App-with-YOLOv8-and
 ```
 
 2. Run the Streamlit app:
-
+   
 ```
 streamlit run Tutorial.py
 
