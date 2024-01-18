@@ -19,6 +19,7 @@ This project demonstrates the implementation of an Object Detection Web App usin
 - **Save Processed Video**: Saves the processed video with annotated results.
 - **Interactive Demo**: [ Medium ](https://medium.com/@radhikaramsen3131/build-an-object-detection-webapp-with-yolov8-and-streamlit-29dd2d09be26)
 
+
 ## Usage
 
 1. Clone the repository:
